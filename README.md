@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davniysons
+- 👋 Hi, I’m @davniysons, Anton Ivanov
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Data Science, SQL
 - 💞️ I’m looking to collaborate on in work, internship
