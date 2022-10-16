@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Data Science, SQL
 - 💞️ I’m looking to collaborate on in work, internship
 - 📫 How to reach me:
--   davniyson@gmail.com, tony.ervalson@gmail.com
+-   davniyson@gmail.com
    My Telegram: @davniyson
 <!---
 davniysons/davniysons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
