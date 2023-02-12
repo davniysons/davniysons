@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davniysons, Anton Ivanov
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Data Science, SQL
-- 💞️ I’m looking to collaborate on in work, internship
+- 👀 I’m a junior Data Scientist
+- 🌱 I’m currently work in Python and SQL
+- 💞️ I’m looking for full-time work opportunities
 - 📫 How to reach me:
 -   davniyson@gmail.com
    My Telegram: @davniyson
