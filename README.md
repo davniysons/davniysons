@@ -12,7 +12,8 @@
 - ☁️ Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure
 
 ## Projects
-- in process...
+  🚀 [Data Science Projects]([link to repository](https://github.com/davniysons/Data-Science-Project-by-Yandex-Practicum)): My projects from the "Data Science Specialist" training program by Yandex.Praktikum
+  
 ## Contact
 - 📧 Email: davniyson@gmail.com
 - 📱 Telegram: @davniyson
