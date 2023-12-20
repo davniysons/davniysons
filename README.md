@@ -21,4 +21,4 @@
 
 ## Additional Information
 - 🎓 Bachelor's in Geography, Tavrida National University, Ukraine
-- 📚 Professional certificates in Data Science and Data Engineering, including a 400-hour BootCamp, since 2015.
+- 📚 Professional certificates in Data Science and Data Engineering, including a 400-hour BootCamp, since 2019.
